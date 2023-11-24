@@ -8,12 +8,16 @@ mkdir PRAKTIKUM-OOP
 cd PRAKTIKUM-OOP
 ```
 
-Clone this repository by doing these command
+Clone this repository by doing this command
 ```bash
 git clone https://github.com/ritsuhaaa/PRAKTIKUM-OOP-2023.git
 ```
 
-After clone the repository, you can run the java file inside the src 
+After clone the repository, you can run the java file inside the src by doing this command
+```bash
+cd MODUL1\JURNAL-MODUL1\src\
+java Main
+```
 
 You can also set the upstream to the original repository to keep latest changed
 ```bash

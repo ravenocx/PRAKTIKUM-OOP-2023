@@ -21,5 +21,6 @@ java Main
 
 You can also set the upstream to the original repository to keep latest changed
 ```bash
-git remote add upstream https://github.com/ESD-Laboratory/Backend-Practice
+git remote add upstream https://github.com/ritsuhaaa/PRAKTIKUM-OOP-2023.git
+
 ```

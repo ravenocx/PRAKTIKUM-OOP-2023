@@ -2,7 +2,7 @@
 This repository is for OOP Practicum in Information System, Telkom University
 
 ## How to Run the Code
-Create your own directory (folder) and go inside that directory, you can run the code by using the following command
+Create your own directory (folder) and go inside that directory, you can create the directory by using the following command
 ```bash
 mkdir PRAKTIKUM-OOP
 cd PRAKTIKUM-OOP

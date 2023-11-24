@@ -15,7 +15,7 @@ git clone https://github.com/ritsuhaaa/PRAKTIKUM-OOP-2023.git
 
 After clone the repository, you can run the java file inside the src by doing this command
 ```bash
-cd MODUL1\JURNAL-MODUL1\src\
+cd MODUL1/JURNAL-MODUL1/src/
 java Main
 ```
 
